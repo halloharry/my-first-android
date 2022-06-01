@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/4147400eff6702c02d16411b60229314/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/4fafb8a81ed3a818af2652d13db44689/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f1b7ce35865bd83a7f1248c99384e502/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harryrosadi/.gradle/caches/transforms-3/c44595d8e2636252d95016e023e26394/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/harryrosadi/.gradle/caches/transforms-3/2c0aa71657969b3c9038da2c73415c38/transformed/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/23ce7be3d96473f3fb8eed754d8598ba/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/03466aa5ca1e007d58936a39757049e8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1b847ab8ecf54676f54d9d9eb60033b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/7c118e11147c010f9ca26335856e630b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/harryrosadi/.gradle/caches/transforms-3/91a7edd6ba8acd54eddefd0b06791648/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/e2e85fec8c34b62fb61ee922b3603032/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1e5f0aabe8e29d0f6958152a1f163303/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f3a6e6e705570a7d056a11d625d42ca7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/9a70db50c7515eabd55d8dd163c1bbd7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/55893083c18332e3fe2038e3f2435400/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/ee08f0df71d390217f3b4b92029bbeda/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/73c7a2b2f1d40ec9cac8f1b9a582aa49/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/a653c69e4694409e9206a880b865833b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/19a2c0e44576f3617765706098bd5402/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/47a1d6bd67a877e805b1b165f218621c/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/eeabb231907ccbb7ca345ae00ca90904/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/3a861492c6e79900006d12d67ed16f81/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/d3ed1fe85568872c4b92bfeeb471c68d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harryrosadi/.gradle/caches/transforms-3/38d00108881880e9481c84c141990f2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f874873a13267e41a9ecab9fbb30e237/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harryrosadi/.gradle/caches/transforms-3/c0c927ada28d2ec88642c2d7645c4005/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/713ba493ef54f6509cbd4d46354ed187/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harryrosadi/.gradle/caches/transforms-3/71124d678e78128cd0d9a7017236f616/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/459b34a8f48a4905e96344ee7c71c137/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/915a45b38e2c28acb0c58aa578612edb/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/efb623b0ce6afdc1a9b8384406759832/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/eeeea5a5940c319cbb29e6aa47bee0bf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/4178c39bcaf85541abced1ebcb79b15e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harryrosadi/.gradle/caches/transforms-3/38d00108881880e9481c84c141990f2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harryrosadi/.gradle/caches/transforms-3/38d00108881880e9481c84c141990f2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.example.myapplication.MainActivity
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/4147400eff6702c02d16411b60229314/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/4147400eff6702c02d16411b60229314/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/4fafb8a81ed3a818af2652d13db44689/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/4fafb8a81ed3a818af2652d13db44689/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f1b7ce35865bd83a7f1248c99384e502/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f1b7ce35865bd83a7f1248c99384e502/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harryrosadi/.gradle/caches/transforms-3/c44595d8e2636252d95016e023e26394/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harryrosadi/.gradle/caches/transforms-3/c44595d8e2636252d95016e023e26394/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/harryrosadi/.gradle/caches/transforms-3/2c0aa71657969b3c9038da2c73415c38/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/harryrosadi/.gradle/caches/transforms-3/2c0aa71657969b3c9038da2c73415c38/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/23ce7be3d96473f3fb8eed754d8598ba/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harryrosadi/.gradle/caches/transforms-3/23ce7be3d96473f3fb8eed754d8598ba/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/03466aa5ca1e007d58936a39757049e8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/03466aa5ca1e007d58936a39757049e8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1b847ab8ecf54676f54d9d9eb60033b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1b847ab8ecf54676f54d9d9eb60033b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/7c118e11147c010f9ca26335856e630b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/7c118e11147c010f9ca26335856e630b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/harryrosadi/.gradle/caches/transforms-3/91a7edd6ba8acd54eddefd0b06791648/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harryrosadi/.gradle/caches/transforms-3/91a7edd6ba8acd54eddefd0b06791648/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/e2e85fec8c34b62fb61ee922b3603032/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/e2e85fec8c34b62fb61ee922b3603032/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1e5f0aabe8e29d0f6958152a1f163303/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/1e5f0aabe8e29d0f6958152a1f163303/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f3a6e6e705570a7d056a11d625d42ca7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f3a6e6e705570a7d056a11d625d42ca7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/9a70db50c7515eabd55d8dd163c1bbd7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/9a70db50c7515eabd55d8dd163c1bbd7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/55893083c18332e3fe2038e3f2435400/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/55893083c18332e3fe2038e3f2435400/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/ee08f0df71d390217f3b4b92029bbeda/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/ee08f0df71d390217f3b4b92029bbeda/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/73c7a2b2f1d40ec9cac8f1b9a582aa49/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/73c7a2b2f1d40ec9cac8f1b9a582aa49/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/5569570771428b265868d1805759cc49/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/a653c69e4694409e9206a880b865833b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/a653c69e4694409e9206a880b865833b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/19a2c0e44576f3617765706098bd5402/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/19a2c0e44576f3617765706098bd5402/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/47a1d6bd67a877e805b1b165f218621c/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/47a1d6bd67a877e805b1b165f218621c/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/eeabb231907ccbb7ca345ae00ca90904/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/eeabb231907ccbb7ca345ae00ca90904/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/3a861492c6e79900006d12d67ed16f81/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/3a861492c6e79900006d12d67ed16f81/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/d3ed1fe85568872c4b92bfeeb471c68d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/d3ed1fe85568872c4b92bfeeb471c68d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harryrosadi/.gradle/caches/transforms-3/38d00108881880e9481c84c141990f2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harryrosadi/.gradle/caches/transforms-3/38d00108881880e9481c84c141990f2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f874873a13267e41a9ecab9fbb30e237/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/f874873a13267e41a9ecab9fbb30e237/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harryrosadi/.gradle/caches/transforms-3/c0c927ada28d2ec88642c2d7645c4005/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/harryrosadi/.gradle/caches/transforms-3/c0c927ada28d2ec88642c2d7645c4005/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/713ba493ef54f6509cbd4d46354ed187/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harryrosadi/.gradle/caches/transforms-3/713ba493ef54f6509cbd4d46354ed187/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harryrosadi/.gradle/caches/transforms-3/71124d678e78128cd0d9a7017236f616/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harryrosadi/.gradle/caches/transforms-3/71124d678e78128cd0d9a7017236f616/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/459b34a8f48a4905e96344ee7c71c137/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/459b34a8f48a4905e96344ee7c71c137/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/915a45b38e2c28acb0c58aa578612edb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/915a45b38e2c28acb0c58aa578612edb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/efb623b0ce6afdc1a9b8384406759832/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/efb623b0ce6afdc1a9b8384406759832/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/eeeea5a5940c319cbb29e6aa47bee0bf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/eeeea5a5940c319cbb29e6aa47bee0bf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/4178c39bcaf85541abced1ebcb79b15e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/4178c39bcaf85541abced1ebcb79b15e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
