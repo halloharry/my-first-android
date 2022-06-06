@@ -7,55 +7,59 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/panjang"/>
-
-    <EditText
-        android:id="@+id/edit_panjang"
+    <Button
+        android:id="@+id/btn_move_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:lines="1" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/lebar"/>
-
-    <EditText
-        android:id="@+id/edit_lebar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:lines="1" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/tinggi" />
-
-    <EditText
-        android:id="@+id/edit_tinggi"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:lines="1" />
+        android:layout_marginBottom="16dp"
+        android:text="@string/move_activity" />
 
     <Button
-        android:id="@+id/edit_btn"
+        android:id="@+id/btn_move_activity_data"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hitung" />
+        android:layout_marginBottom="16dp"
+        android:text="@string/move_with_data" />
 
+    <Button
+        android:id="@+id/btn_move_activity_object"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/move_with_object" />
+
+    <Button
+        android:id="@+id/btn_dial_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/dial_number" />
+
+    <Button
+        android:id="@+id/btn_move_for_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/move_with_result" />
     <TextView
-        android:id="@+id/edit_hasil"
+        android:id="@+id/tv_result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/hasil"
-        android:textSize="24sp"
-        android:textStyle="bold" />
+        android:text="@string/result_from_activity"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_set_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_value"/>
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
 
 </LinearLayout>

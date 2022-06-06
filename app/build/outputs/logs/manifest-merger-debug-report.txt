@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.core:core-ktx:1.7.0] /home/harryrosadi/.gradle/caches/transforms-3/4147400eff6702c02d16411b60229314/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
@@ -40,25 +40,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harryrosadi/.gradle
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/efb623b0ce6afdc1a9b8384406759832/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/harryrosadi/.gradle/caches/transforms-3/eeeea5a5940c319cbb29e6aa47bee0bf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harryrosadi/.gradle/caches/transforms-3/4178c39bcaf85541abced1ebcb79b15e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-36:19
 MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /home/harryrosadi/.gradle/caches/transforms-3/e0be1e4ebe8d827889716686ce55c5f3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harryrosadi/.gradle/caches/transforms-3/151ee21210d5aacd0a70a93d604ab659/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -81,22 +81,52 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harry
 		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-51
-activity#com.example.myapplication.MainActivity
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-20:20
+activity#com.example.myapplication.DebuggingCodelab
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-45
+activity#com.example.myapplication.ResultActivity
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:13-43
+activity#com.example.myapplication.ActivityWIthObject
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:13-47
+activity#com.example.myapplication.ActivityWithData
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:13-45
+activity#com.example.myapplication.MoveActivity
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:13-41
+activity#com.example.myapplication.MainActivity
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:33:27-74
 uses-sdk
 INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml

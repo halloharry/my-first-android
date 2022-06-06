@@ -1,4 +1,4 @@
-#Wed Jun 01 12:04:34 WIB 2022
+#Sat Jun 04 10:41:54 WIB 2022
 base.2=/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
 path.2=5/classes.dex
 base.1=/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

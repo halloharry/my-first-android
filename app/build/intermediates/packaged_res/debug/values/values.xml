@@ -7,12 +7,24 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="_50">50</string>
     <string name="app_name">My Application</string>
-    <string name="hasil">hasil</string>
-    <string name="hitung">hitung</string>
-    <string name="lebar">lebar</string>
-    <string name="panjang">panjang</string>
-    <string name="tinggi">tinggi</string>
+    <string name="choose">Pilih</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="hello_world">hello_world</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="set_value">set_value</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
     <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

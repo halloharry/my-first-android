@@ -19,6 +19,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.example.myapplication.DebuggingCodelab"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.ActivityWIthObject"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.ActivityWithData"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.MoveActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.myapplication.MainActivity"
             android:exported="true" >
             <intent-filter>

@@ -1,73 +1,105 @@
 package com.example.myapplication
 
-import androidx.appcompat.app.AppCompatActivity
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Button
-import android.widget.EditText
 import android.widget.TextView
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
+    private lateinit var tvResult: TextView
+    private lateinit var btnSetValue: Button
+    private lateinit var tvText: TextView
+    private var names = ArrayList<String>()
 
-    private lateinit var editLebar: EditText
-    private lateinit var editPanjang: EditText
-    private lateinit var editTinggi: EditText
-    private lateinit var editButton: Button
-    private lateinit var editHasil: TextView
+
+    private val resultLauncher = registerForActivityResult(
+        ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        if (result.resultCode == ResultActivity.RESULT_CODE && result.data != null) {
+            val selectedValue =
+                result.data?.getIntExtra(ResultActivity.EXTRA_SELECTED_VALUE, 0)
+            tvResult.text = "Hasil : $selectedValue"
+        }
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        editLebar = findViewById(R.id.edit_lebar)
-        editButton = findViewById(R.id.edit_btn)
-        editHasil = findViewById(R.id.edit_hasil)
-        editPanjang = findViewById(R.id.edit_panjang)
-        editTinggi = findViewById(R.id.edit_tinggi)
 
-        editButton.setOnClickListener(this)
+        val buttonMove: Button = findViewById(R.id.btn_move_activity)
+        buttonMove.setOnClickListener(this)
 
-        if (savedInstanceState != null){
-            val hasil = savedInstanceState.getString(STATE_RESULT)
-            editHasil.text = hasil
-        }
+        val buttonWithData: Button = findViewById(R.id.btn_move_activity_data)
+        buttonWithData.setOnClickListener(this)
+
+        val buttonWithObject: Button = findViewById(R.id.btn_move_activity_object)
+        buttonWithObject.setOnClickListener(this)
+
+        val dialPhoneButton: Button = findViewById(R.id.btn_dial_number)
+        dialPhoneButton.setOnClickListener(this)
+
+        val btnMoveForResult:Button = findViewById(R.id.btn_move_for_result)
+        btnMoveForResult.setOnClickListener(this)
+        tvResult = findViewById(R.id.tv_result)
+
+        debuggingCodeLab()
 
     }
 
     override fun onClick(view: View?) {
-        if (view != null) {
-            if (view.id == R.id.edit_btn) {
-                val panjang = editPanjang.text.toString().trim()
-                val lebar = editLebar.text.toString().trim()
-                val tinggi = editTinggi.text.toString().trim()
-
-                var mandatory = false
-                if (panjang.isEmpty()){
-                    mandatory = true
-                    editPanjang.error = "mandatory bray"
-                }
-                if (lebar.isEmpty()){
-                    mandatory = true
-                    editLebar.error = "mandatory bray"
-                }
-                if (tinggi.isEmpty()){
-                    mandatory = true
-                    editTinggi.error = "mandatory bray yy"
-                }
-
-                if (!mandatory){
-                    val volume = panjang.toDouble() * lebar.toDouble() * tinggi.toDouble()
-                    editHasil.text = volume.toString()
-                }
+        if (view?.id == R.id.btn_set_value) {
+            Log.d("MainActivity", names.toString())
+            val name = StringBuilder()
+            for (i in 0..2) {
+                name.append(names[i]).append("\n")
             }
+            tvText.text = name.toString()
         }
+
+        when (view?.id) {
+            R.id.btn_move_activity -> {
+                val moveIntent = Intent(this@MainActivity, MoveActivity::class.java)
+                startActivity(moveIntent)
+            }
+
+            R.id.btn_move_activity_data ->{
+                val dataTransfer = Intent(this@MainActivity, ActivityWithData::class.java)
+                dataTransfer.putExtra(ActivityWithData.NAME, "joko")
+                dataTransfer.putExtra(ActivityWithData.AGE, 12)
+                startActivity(dataTransfer)
+            }
+
+            R.id.btn_move_activity_object -> {
+               val person = Person("joko", 12, "joko@gmail.com", "subang")
+                val objectTransfer = Intent(this@MainActivity, ActivityWIthObject::class.java)
+                val putExtra = objectTransfer.putExtra(ActivityWIthObject.PERSON, person)
+                startActivity(putExtra)
+            }
+            R.id.btn_dial_number -> {
+                val phoneNumber = "08999999999"
+                val dialPhoneIntent = Intent(Intent.ACTION_DIAL, Uri.parse("tel:$phoneNumber"))
+                startActivity(dialPhoneIntent)
+            }
+            R.id.btn_move_for_result -> {
+                val moveForResultIntent = Intent(this@MainActivity, ResultActivity::class.java)
+                resultLauncher.launch(moveForResultIntent)
+            }
+
+        }
+
     }
 
-    companion object{
-        private const val STATE_RESULT = "state_result"
-    }
-
-    override fun onSaveInstanceState(outState: Bundle) {
-        super.onSaveInstanceState(outState)
-        outState.putString(STATE_RESULT, editHasil.text.toString())
+    private fun debuggingCodeLab(){
+        btnSetValue = findViewById(R.id.btn_set_value)
+        tvText = findViewById(R.id.tv_text)
+        btnSetValue.setOnClickListener(this)
+        names.add("Narenda Wicaksono")
+        names.add("Kevin")
+        names.add("Yoza")
     }
 }

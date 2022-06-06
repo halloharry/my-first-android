@@ -44,6 +44,14 @@
         "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
+        "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_move.xml.flat",
+        "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_move.xml"
+    },
+    {
+        "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_result.xml.flat",
+        "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_result.xml"
+    },
+    {
         "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml"
     },
@@ -56,7 +64,15 @@
         "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_with_data.xml.flat",
+        "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_with_data.xml"
+    },
+    {
         "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_with_object.xml.flat",
+        "source": "/home/harryrosadi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_with_object.xml"
     }
 ]

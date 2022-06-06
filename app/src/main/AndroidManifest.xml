@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".DebuggingCodelab"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityWIthObject"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityWithData"
+            android:exported="false" />
+        <activity
+            android:name=".MoveActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
