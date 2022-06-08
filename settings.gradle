@@ -16,3 +16,8 @@ rootProject.name = "My Application"
 include ':app'
 include ':app2'
 include ':fragmentlatihan'
+include ':applicationlayout'
+include ':myconstrainview'
+include ':myconstraintview'
+include ':myrecyclerview'
+include ':usergithub'

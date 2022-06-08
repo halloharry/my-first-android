@@ -12,7 +12,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/applicationlayout" />
             <option value="$PROJECT_DIR$/fragmentlatihan" />
+            <option value="$PROJECT_DIR$/myconstraintview" />
+            <option value="$PROJECT_DIR$/myconstrainview" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
+            <option value="$PROJECT_DIR$/usergithub" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
