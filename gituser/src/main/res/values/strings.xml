@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">GitUser</string>
+    <string name="nama_developer">joko sysilo</string>
+    <string name="email_developer">joko-joko@gmail.com</string>
+    <string name="about">About</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="card_view">Card View</string>
+    <string name="full_name">Full Name</string>
+    <string name="harga_tiket">150.000</string>
+    <string name="alamat">Alamat</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="mata_uang">Rp.</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="no_telp_dummy">08123123123</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="username_developer">\@joko</string>
+    <string name="statistik">100</string>
+    <string name="avatar">Avatar</string>
+    <string name="_0">0</string>
+    <string name="get_username">\@%1$s</string>
+
+    <!-- Other string resources-->
+    <string-array name="username">
+        <item>jokoWharton</item>
+        <item>jokoshekhariitbhu</item>
+        <item>jokoinguy</item>
+        <item>jokobanes</item>
+        <item>joko</item>
+        <item>jokox</item>
+        <item>jokosusilo</item>
+        <item>joko</item>
+        <item>hendjoko</item>
+        <item>jokomana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>joko Wharton</item>
+        <item>joko Shekhar</item>
+        <item>joko</item>
+        <item>joko Guy</item>
+        <item>joko Banes</item>
+        <item>joko Tamada</item>
+        <item>joko Prasetyo</item>
+        <item>joko Oktaviyan</item>
+        <item>joko Santika</item>
+        <item>joko Permana</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>New Delhi, India</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Sydney, Australia</item>
+        <item>California</item>
+        <item>India</item>
+        <item>Jakarta Indonesia</item>
+        <item>Trondheim, Norway</item>
+        <item>Pittsburgh, PA, USA</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta, </item>
+    </string-array>
+
+    <string-array name="company">
+        <item>MindOrksOpenSource</item>
+        <item>Google working on @android</item>
+        <item>Google</item>
+        <item>Working Group Two</item>
+        <item>AndroidHive | Droid5</item>
+        <item>Nusantara Beta Studio</item>
+        <item>Google, Inc.</item>
+        <item>KotlinID</item>
+        <item>JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>gojek-engineering</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+</resources>

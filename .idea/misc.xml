@@ -14,6 +14,16 @@
         <entry key="applicationlayout/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="appsecond/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1685" />
         <entry key="fragmentlatihan/src/main/res/layout/fragment_detail_category.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/drawable/ic_baseline_account_balance_24.xml" value="0.194" />
+        <entry key="gituser/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.194" />
+        <entry key="gituser/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.194" />
+        <entry key="gituser/src/main/res/drawable/ic_baseline_share_24.xml" value="0.194" />
+        <entry key="gituser/src/main/res/layout/activity_dashboard.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/layout/activity_detail.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/layout/activity_list_user.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/layout/ic_baseline_favorite_24.xml" value="0.3229166666666667" />
+        <entry key="gituser/src/main/res/layout/main_navigation.xml" value="0.3229166666666667" />
         <entry key="layoutapplication/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
         <entry key="myconstraintview/src/main/res/drawable/ic_launcher_background.xml" value="0.2195" />
         <entry key="myconstraintview/src/main/res/layout/activity_main.xml" value="0.3229166666666667" />
